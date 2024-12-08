@@ -17,7 +17,7 @@ This repository contains a collection of basic machine learning . These projects
 4. **[Sentiment Analysis](https://github.com/SahashRaee/Projects/tree/main/Sentiment_Analysis_)**  
    An NLP project to perform sentiment analysis on text.
 
-5. **Titanic Survival Prediction**  
+5. **[Titanic Survival Prediction](https://github.com/SahashRaee/Projects/tree/main/Titanic_Survival_Prediction)**  
    A project using machine learning to predict the survival of passengers on the Titanic.
    
 5. To Be Continued.....
