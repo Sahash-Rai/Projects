@@ -1,4 +1,4 @@
-# Machine Learning 
+# Beginner Machine Learning Projects
 
 ## Description
 This repository contains a collection of basic machine learning . These projects serve as hands-on exercises for learning core machine learning techniques, including recommendation systems, object detection, price prediction, sentiment analysis, and more. They are ideal for beginners (like me) looking to explore the practical applications of machine learning algorithms.
