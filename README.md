@@ -14,7 +14,7 @@ This repository contains a collection of basic machine learning . These projects
 3. **[Real Estate Price Prediction](https://github.com/SahashRaee/Projects/tree/main/Real_State_Price_Prediction)**  
    A machine learning model that predicts real estate prices based on various factors.
 
-4. **Sentiment Analysis**  
+4. **[Sentiment Analysis](https://github.com/SahashRaee/Projects/tree/main/Sentiment_Analysis_)**  
    An NLP project to perform sentiment analysis on text.
 
 5. **Titanic Survival Prediction**  
