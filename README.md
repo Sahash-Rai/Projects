@@ -5,7 +5,7 @@ This repository contains a collection of basic machine learning . These projects
 
 ## Projects
 
-1. **![Hybrid Recommendation System Development](https://github.com/SahashRaee/Projects/tree/main/Hybrid%20Recommendation_System_Development)**  
+1. **[Hybrid Recommendation System Development](https://github.com/SahashRaee/Projects/tree/main/Hybrid%20Recommendation_System_Development)**  
    A hybrid recommendation system that uses both collaborative and content-based filtering to recommend items to users.
 
 2. **Object Detection using Computer Vision**  
