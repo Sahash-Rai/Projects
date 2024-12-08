@@ -17,6 +17,9 @@ This repository contains a collection of basic machine learning . These projects
 4. **Sentiment Analysis**  
    An NLP project to perform sentiment analysis on text.
 
+5. **Titanic Survival Prediction**  
+   A project using machine learning to predict the survival of passengers on the Titanic.
+   
 5. To Be Continued.....
 
 
