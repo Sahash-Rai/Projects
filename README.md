@@ -11,7 +11,7 @@ This repository contains a collection of basic machine learning . These projects
 2. **[Object Detection using Computer Vision](https://github.com/SahashRaee/Projects/tree/main/Object_Detection_using_cv)**  
    A project focusing on object detection using OpenCV and deep learning, identifying objects in images and videos.
 
-3. **Real Estate Price Prediction**  
+3. **[Real Estate Price Prediction](https://github.com/SahashRaee/Projects/tree/main/Real_State_Price_Prediction)**  
    A machine learning model that predicts real estate prices based on various factors.
 
 4. **Sentiment Analysis**  
