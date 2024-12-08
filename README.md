@@ -8,7 +8,7 @@ This repository contains a collection of basic machine learning . These projects
 1. **[Hybrid Recommendation System Development](https://github.com/SahashRaee/Projects/tree/main/Hybrid%20Recommendation_System_Development)**  
    A hybrid recommendation system that uses both collaborative and content-based filtering to recommend items to users.
 
-2. **Object Detection using Computer Vision**  
+2. **[Object Detection using Computer Vision](https://github.com/SahashRaee/Projects/tree/main/Object_Detection_using_cv)**  
    A project focusing on object detection using OpenCV and deep learning, identifying objects in images and videos.
 
 3. **Real Estate Price Prediction**  
